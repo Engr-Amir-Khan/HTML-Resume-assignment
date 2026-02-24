@@ -4,7 +4,7 @@
 This is a resume website built using HTML.
 
 ## 🚀 Live Demo
-(Add GitHub Pages link here)
+https://engr-amir-khan.github.io/HTML-Resume-assignment/
 
 ## 🛠 Setup Instructions
 1. Clone the repository
